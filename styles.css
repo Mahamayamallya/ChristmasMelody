@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-family: "Mountains of Christmas", serif;
+}
+.title-track {
+  margin: 20px 50px;
+  text-align: justify;
+}
+
+h1 {
+  margin: 50px auto;
+  font-size: 56px;
+  color: #ee4266;
+}
+
+footer {
+  margin: 70px auto 0;
+  color: black;
+}
+i,
+span {
+  margin-right: 10px;
+  font-size: 32px;
+  color: #3e3232;
+}
+
+@media screen and (max-width: 650px) {
+  i,
+  span {
+    font-size: 14px;
+  }
+}
